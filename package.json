@@ -1,0 +1,20 @@
+{
+  "name": "mausam",
+  "version": "1.0.0",
+  "description": "",
+  "source": "index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "author": "Nirjhar Joshi",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "luxon": "^3.5.0",
+    "vanilla-tilt": "^1.8.1"
+  }
+}
